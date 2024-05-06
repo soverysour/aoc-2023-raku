@@ -1,4 +1,4 @@
-unit module Day1;
+unit module Day2;
 
 constant $input = './inputs/day02.txt';
 constant %dice_bag = (
